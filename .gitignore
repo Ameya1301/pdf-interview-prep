@@ -1,0 +1,29 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local Python environments
+.venv/
+venv/
+
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+/build/
+/dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local uploads and generated exports
+/static/docs/
+/static/output/
+
+# Operating system files
+.DS_Store
+Thumbs.db

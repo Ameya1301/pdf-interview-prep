@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>PDF Interview Prep</title>
+    <style>
+:root {
+    color-scheme: dark;
+    --background: #15171b;
+    --panel: #1d2025;
+    --border: #383d45;
+    --ink: #f4f1eb;
+    --muted: #b5b9c2;
+    --accent: #eaca94;
+    --accent-dark: #241d14;
+    --danger: #ffb3ac;
+    font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    min-width: 0;
+    min-height: 100vh;
+    background: var(--background);
+    color: var(--ink);
+}
+
+[hidden] { display: none !important; }
+
+.wrap {
+    width: min(1120px, calc(100% - 64px));
+    margin-inline: auto;
+}
+
+.masthead {
+    border-bottom: 1px solid var(--border);
+}
+
+.masthead-inner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 70px;
+    font-weight: 650;
+    letter-spacing: .015em;
+}
+
+.brand-mark {
+    width: 20px;
+    height: 16px;
+    border: 1px solid var(--accent);
+    border-radius: 3px;
+    box-shadow: 3px 3px 0 -1px var(--background), 3px 3px 0 var(--accent);
+}
+
+.intro {
+    padding-block: clamp(42px, 6vw, 76px) clamp(28px, 4vw, 48px);
+}
+
+h1 {
+    margin: 0;
+    font-family: Georgia, serif;
+    font-weight: 400;
+    font-size: clamp(3rem, 8vw, 6rem);
+    line-height: .96;
+    letter-spacing: -.065em;
+}
+
+h1 em {
+    font-weight: inherit;
+    color: var(--accent);
+}
+
+.intro p {
+    margin: 24px 0 0;
+    font-size: clamp(1rem, 2vw, 1.15rem);
+    color: var(--muted);
+    line-height: 1.6;
+}
+
+.workspace {
+    display: grid;
+    grid-template-columns: minmax(245px, .7fr) minmax(0, 1.55fr);
+    align-items: start;
+    gap: 22px;
+    padding-bottom: 52px;
+}
+
+.panel {
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: var(--panel);
+    padding: clamp(18px, 3vw, 28px);
+    min-width: 0;
+}
+
+h2 {
+    margin: 0 0 17px;
+    font-size: 1.12rem;
+    letter-spacing: -.02em;
+}
+
+.file-picker {
+    position: relative;
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    gap: 8px;
+    min-height: 178px;
+    padding: 20px 12px;
+    border: 1px dashed #646a75;
+    border-radius: 11px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+}
+
+.file-picker:hover, .file-picker:focus-within, .file-picker.is-dragging {
+    border-color: var(--accent);
+    background: #292724;
+}
+
+.file-picker:focus-within {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+}
+
+.file-picker input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    clip-path: inset(50%);
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.file-icon {
+    display: grid;
+    place-items: center;
+    width: 37px;
+    height: 42px;
+    margin-bottom: 3px;
+    border: 1px solid #867555;
+    border-radius: 5px;
+    color: var(--accent);
+    font: 700 .65rem ui-monospace, monospace;
+}
+
+.file-picker strong, .muted, .question-body {
+    overflow-wrap: anywhere;
+}
+
+#file-help, .muted, .empty-guide, .status {
+    color: var(--muted);
+    font-size: .86rem;
+    line-height: 1.5;
+}
+
+button {
+    padding: 11px 14px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font: inherit;
+    font-weight: 650;
+    cursor: pointer;
+}
+
+button:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+}
+
+button:disabled { cursor: wait; opacity: .7; }
+
+.primary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+    margin-top: 14px;
+    background: var(--accent);
+    color: var(--accent-dark);
+}
+
+.primary:hover:not(:disabled) { background: #f8dab0; }
+
+.secondary {
+    white-space: nowrap;
+    background: transparent;
+    color: var(--ink);
+    border-color: #535965;
+    font-size: .82rem;
+}
+
+.secondary:hover { border-color: var(--accent); }
+
+.status { margin: 12px 0 0; }
+.status:empty { margin: 0; }
+
+.status[data-state="error"] { color: var(--danger); }
+
+.guide-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.guide-heading h2, .guide-heading p { margin: 0; }
+
+.guide-heading p { margin-top: 5px; }
+
+.empty-guide {
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    gap: 10px;
+    min-height: 228px;
+    border: 1px solid var(--border);
+    border-radius: 11px;
+    padding: 20px;
+    text-align: center;
+}
+
+.empty-guide p { margin: 0; }
+
+.empty-mark {
+    display: grid;
+    place-items: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid #5b5143;
+    color: var(--accent);
+    font: 1.45rem Georgia, serif;
+}
+
+.guide-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.spinner {
+    display: inline-block;
+    flex: none;
+    width: 34px;
+    height: 34px;
+    border: 2px solid #51493d;
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+}
+
+.spinner-small {
+    width: 17px;
+    height: 17px;
+    border-color: #9b8159;
+    border-top-color: var(--accent-dark);
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .spinner { animation: none; }
+}
+
+.loading-guide {
+    gap: 12px;
+    padding-block: 34px;
+}
+
+.loading-guide strong {
+    color: var(--ink);
+    font-size: 1rem;
+}
+
+.questions {
+    display: grid;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.question-card {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: #191c20;
+    overflow-wrap: anywhere;
+}
+
+.question-card[open] { border-color: #5e5342; }
+
+.question-card summary {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 12px;
+    padding: 13px 15px;
+    list-style: none;
+    line-height: 1.45;
+    font-weight: 650;
+    cursor: pointer;
+}
+
+.question-card summary::-webkit-details-marker { display: none; }
+.question-card summary:hover { background: #23262b; }
+.question-card summary:focus-visible { outline-offset: -3px; }
+
+.question-number {
+    min-width: 1.5rem;
+    color: var(--accent);
+    font: 600 .8rem/1.85 ui-monospace, monospace;
+    text-align: right;
+}
+
+.question-toggle {
+    width: 8px;
+    height: 8px;
+    margin: 5px 3px 0;
+    border: solid var(--muted);
+    border-width: 0 1.5px 1.5px 0;
+    transform: rotate(45deg);
+}
+
+.question-card[open] .question-toggle {
+    margin-top: 9px;
+    transform: rotate(225deg);
+}
+
+.answer-panel {
+    margin: 0 15px 0 calc(1.5rem + 27px);
+    padding: 12px 0 15px;
+    border-top: 1px solid var(--border);
+}
+
+.answer-label {
+    margin: 0 0 5px;
+    color: var(--accent);
+    font-size: .78rem;
+    font-weight: 650;
+}
+
+.question-body {
+    margin: 0;
+    color: #dadce1;
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+.question-pages {
+    margin: 9px 0 0;
+    color: var(--muted);
+    font-size: .8rem;
+}
+
+@media (max-width: 710px) {
+    .wrap { width: calc(100% - 32px); }
+    .workspace { grid-template-columns: minmax(0, 1fr); }
+    .intro { padding-top: 45px; }
+    .answer-panel { margin-left: 15px; }
+}
+    </style>
+</head>
+<body>
+    <header class="masthead">
+        <div class="wrap masthead-inner">
+            <span class="brand-mark" aria-hidden="true"></span>
+            <span>PDF Interview Prep</span>
+        </div>
+    </header>
+
+    <main class="wrap">
+        <div class="intro">
+            <h1>Practice from<br>your own <em>notes.</em></h1>
+            <p>Turn a PDF into study questions and answers you can review or download.</p>
+        </div>
+
+        <div class="workspace">
+            <section class="panel upload-panel" aria-labelledby="upload-title">
+                <h2 id="upload-title">Source PDF</h2>
+                <form id="upload-form" action="./upload" method="post" enctype="multipart/form-data">
+                    <label class="file-picker" id="file-picker">
+                        <input id="pdf-file" name="pdf_file" type="file" accept=".pdf,application/pdf" required aria-describedby="file-help">
+                        <span class="file-icon" aria-hidden="true">PDF</span>
+                        <strong id="file-label">Choose a PDF</strong>
+                        <span id="file-help">Drag and drop or browse · up to 20 MB</span>
+                    </label>
+                    <button class="primary" id="generate" type="submit">
+                        <span id="generate-label">Generate study guide</span>
+                        <span id="generate-arrow" aria-hidden="true">→</span>
+                        <span id="generate-spinner" class="spinner spinner-small" aria-hidden="true" hidden></span>
+                    </button>
+                    <p id="status" class="status" role="status" aria-live="polite"></p>
+                </form>
+            </section>
+
+            <section class="panel guide-panel" id="guide-panel" aria-labelledby="guide-title">
+                <div class="guide-heading">
+                    <div>
+                        <h2 id="guide-title">Study guide</h2>
+                        <p id="guide-source" class="muted" hidden></p>
+                    </div>
+                    <div id="guide-actions" class="guide-actions" hidden>
+                        <button id="toggle-answers" class="secondary" type="button">Expand all</button>
+                        <button id="download" class="secondary" type="button">Download CSV</button>
+                    </div>
+                </div>
+                <div id="empty-guide" class="empty-guide">
+                    <span class="empty-mark" aria-hidden="true">?</span>
+                    <p>Questions and answers will appear here.</p>
+                </div>
+                <div id="loading-guide" class="empty-guide loading-guide" hidden>
+                    <span class="spinner" aria-hidden="true"></span>
+                    <strong>Generating your study guide</strong>
+                    <p>Larger PDFs may take longer.</p>
+                </div>
+                <ol class="questions" id="questions" role="list" hidden></ol>
+            </section>
+        </div>
+    </main>
+    <script>
+const form = document.querySelector("#upload-form");
+const fileInput = document.querySelector("#pdf-file");
+const filePicker = document.querySelector("#file-picker");
+const fileLabel = document.querySelector("#file-label");
+const generate = document.querySelector("#generate");
+const generateLabel = document.querySelector("#generate-label");
+const generateArrow = document.querySelector("#generate-arrow");
+const generateSpinner = document.querySelector("#generate-spinner");
+const status = document.querySelector("#status");
+const guide = document.querySelector("#guide-panel");
+const guideSource = document.querySelector("#guide-source");
+const emptyGuide = document.querySelector("#empty-guide");
+const loadingGuide = document.querySelector("#loading-guide");
+const guideActions = document.querySelector("#guide-actions");
+const toggleAnswers = document.querySelector("#toggle-answers");
+const questions = document.querySelector("#questions");
+const download = document.querySelector("#download");
+const maxUploadBytes = 20 * 1024 * 1024;
+let studyGuide;
+
+function setStatus(message, state = "") {
+    status.textContent = message;
+    status.dataset.state = state;
+}
+
+function updateSelection() {
+    fileLabel.textContent = fileInput.files[0]?.name ?? "Choose a PDF";
+    setStatus("");
+}
+
+fileInput.addEventListener("change", updateSelection);
+
+filePicker.addEventListener("dragover", (event) => {
+    event.preventDefault();
+    if (!fileInput.disabled) filePicker.classList.add("is-dragging");
+});
+
+filePicker.addEventListener("dragleave", (event) => {
+    if (!filePicker.contains(event.relatedTarget)) filePicker.classList.remove("is-dragging");
+});
+
+filePicker.addEventListener("drop", (event) => {
+    event.preventDefault();
+    filePicker.classList.remove("is-dragging");
+    if (fileInput.disabled || !event.dataTransfer.files.length) return;
+
+    const transfer = new DataTransfer();
+    transfer.items.add(event.dataTransfer.files[0]);
+    fileInput.files = transfer.files;
+    updateSelection();
+});
+
+function setLoading(isLoading) {
+    generate.disabled = isLoading;
+    fileInput.disabled = isLoading;
+    generateLabel.textContent = isLoading ? "Generating study guide…" : "Generate study guide";
+    generateArrow.hidden = isLoading;
+    generateSpinner.hidden = !isLoading;
+    loadingGuide.hidden = !isLoading;
+    guide.setAttribute("aria-busy", String(isLoading));
+    emptyGuide.hidden = isLoading || Boolean(studyGuide);
+    questions.hidden = isLoading || !studyGuide;
+    guideActions.hidden = isLoading || !studyGuide;
+    guideSource.hidden = isLoading || !studyGuide;
+}
+
+function updateToggleLabel() {
+    const allOpen = !questions.querySelector("details:not([open])");
+    toggleAnswers.textContent = allOpen ? "Collapse all" : "Expand all";
+}
+
+toggleAnswers.addEventListener("click", () => {
+    const shouldExpand = Boolean(questions.querySelector("details:not([open])"));
+    for (const details of questions.querySelectorAll("details")) {
+        details.open = shouldExpand;
+    }
+    updateToggleLabel();
+});
+
+function showGuide(result) {
+    const items = result.items.map((item) => ({
+        question: item.question.trim().replace(/^\s*(?:Q(?:uestion)?\s*)?(?:\d+[.)：:]|\(\d+\))\s+(?=\S)/i, ""),
+        answer: item.answer,
+        pages: item.pages ?? [],
+    }));
+
+    const rows = items.map((item, index) => {
+        const row = document.createElement("li");
+        const details = document.createElement("details");
+        const summary = document.createElement("summary");
+        const number = document.createElement("span");
+        const title = document.createElement("span");
+        const chevron = document.createElement("span");
+
+        details.className = "question-card";
+        number.className = "question-number";
+        number.textContent = String(index + 1);
+        number.setAttribute("aria-hidden", "true");
+        title.textContent = item.question;
+        chevron.className = "question-toggle";
+        chevron.setAttribute("aria-hidden", "true");
+        summary.append(number, title, chevron);
+
+        const answerPanel = document.createElement("div");
+        const answerLabel = document.createElement("p");
+        const answer = document.createElement("p");
+        answerPanel.className = "answer-panel";
+        answerLabel.className = "answer-label";
+        answerLabel.textContent = "Answer";
+        answer.className = "question-body";
+        answer.textContent = item.answer;
+        answerPanel.append(answerLabel, answer);
+
+        if (item.pages.length) {
+            const pages = document.createElement("p");
+            pages.className = "question-pages";
+            const label = item.pages.length === 1 ? "Page" : "Pages";
+            pages.textContent = `${label} ${item.pages.join(", ")}`;
+            answerPanel.append(pages);
+        }
+
+        details.append(summary, answerPanel);
+        details.open = index === 0;
+        details.addEventListener("toggle", updateToggleLabel);
+        row.append(details);
+        return row;
+    });
+
+    questions.replaceChildren(...rows);
+    const label = items.length === 1 ? "question" : "questions";
+    guideSource.textContent = `${result.filename} · ${items.length} ${label}`;
+    studyGuide = { filename: result.filename, items };
+    updateToggleLabel();
+}
+
+form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (generate.disabled) return;
+
+    const file = fileInput.files[0];
+    if (!file || !file.name.toLowerCase().endsWith(".pdf")) {
+        setStatus("Choose a PDF file.", "error");
+        return;
+    }
+    if (file.size > maxUploadBytes) {
+        setStatus("Choose a PDF that is 20 MB or smaller.", "error");
+        return;
+    }
+
+    const payload = new FormData(form);
+    setLoading(true);
+    setStatus("Processing your PDF…");
+
+    try {
+        const response = await fetch(form.action, { method: "POST", body: payload });
+        const result = await response.json().catch(() => null);
+        if (!response.ok || !result) {
+            const detail = typeof result?.detail === "string" ? result.detail : null;
+            throw new Error(detail ?? "The upload failed. Please try again.");
+        }
+
+        if (!Array.isArray(result.items)) {
+            throw new Error("The upload endpoint did not return a study guide.");
+        }
+
+        if (!result.items.length) {
+            throw new Error("No questions were generated. Try a different PDF.");
+        }
+
+        showGuide(result);
+        const label = result.items.length === 1 ? "question" : "questions";
+        setStatus(`${result.items.length} ${label} ready.`);
+    } catch (error) {
+        setStatus(error instanceof Error ? error.message : "The upload failed.", "error");
+    } finally {
+        setLoading(false);
+    }
+});
+
+function csvCell(value) {
+    const text = String(value);
+    const safe = /^\s*[=+\-@]/.test(text) ? `'${text}` : text;
+    return `"${safe.replaceAll('"', '""')}"`;
+}
+
+download.addEventListener("click", () => {
+    if (!studyGuide) return;
+
+    const rows = [
+        ["Question", "Answer", "PDF pages"],
+        ...studyGuide.items.map((item) => [item.question, item.answer, item.pages.join(", ")]),
+    ];
+    const csv = rows.map((row) => row.map(csvCell).join(",")).join("\r\n");
+    const url = URL.createObjectURL(new Blob(["\uFEFF", csv], { type: "text/csv;charset=utf-8" }));
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `${studyGuide.filename.replace(/\.pdf$/i, "")}-study-guide.csv`;
+    document.body.append(link);
+    link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+});
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+langchain>=1,<2
+langchain-core
+langchain-community>=0.4.2
+langchain-openai
+langchain-tavily
+openai
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+faiss-cpu
+python-dotenv
+langchain-classic
+langchain-text-splitters
+-e .

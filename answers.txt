@@ -1,0 +1,949 @@
+Question: QUESTIONS:
+Answer: Here are ready-to-use questions you can pull from the SDG Resource Document. If you share your audience, format (quiz, discussion, workshop), and how many you want, I can tailor these further.
+
+A. Quick factual questions (based on the document’s content)
+1) How many Sustainable Development Goals (SDGs) are covered in the 2030 Agenda?
+2) What are the four learning aims of the 4th SDG Youth Summer Camp resource document? (i–iv)
+3) Name Target 7.1 and Target 7.2 under Goal 7.
+4) What does Target 6.1 Focus on?
+5) Which Target aims to end all forms of discrimination against women and girls?
+6) What is Target 4.7 about?
+7) Name a target from Goal 2 that relates to sustainable agriculture or food production.
+8) Which target explicitly mentions reducing food waste and losses along the supply chain?
+9) What does Target 13.2 ask countries to do?
+10) Which target focuses on protecting and restoring water-related ecosystems by 2020?
+11) What is Target 11.7 about?
+12) Which target addresses improving the functioning of food commodity markets and reducing price volatility?
+13) Name Target 14.1 or 14.2 (one of them) under Goal 14.
+14) Which target under Goal 5 concerns women’s full and effective participation and leadership?
+15) What does Target 3.8 aim to achieve?
+
+B. Target-focused comprehension questions (to check understanding)
+16) In simple terms, what is the purpose of Target 4.7 in the education goal?
+17) How do Target 6.1 and Target 6.2 relate to water and sanitation for all?
+18) Why is Target 12.c about sustainable tourism relevant to poverty reduction and local culture?
+19) Explain in your own words what Target 13.a and 13.b are about.
+20) Give one example of how Target 2.4 (sustainable food production and resilient agriculture) could support Goal 1 (poverty eradication).
+
+C. Synergy and mapping prompts (to encourage cross-goal thinking)
+21) Pick a target you care about (e.g., 6.1 or 7.2). Which other SDG targets might directly support it? List at least two.
+22) Identify a pair of targets from different goals that could reinforce each other (e.g., 6.x with 7.x, or 4.x with 5.x). Briefly explain the synergy.
+23) Choose Target 12.3 (reduce food waste) and describe how it could affect both environmental outcomes and livelihoods in a community.
+24) How could Target 3.1 (maternal health) be linked to Target 3.8 (universal health coverage) and Target 3.c (health workforce financing and capacity)?
+25) Propose a local action that would advance Target 14.2 (protect marine/coastal ecosystems) and explain which other targets it could support.
+
+D. Discussion and reflection prompts (great for small groups)
+26) Which targets are most relevant to your community, and why?
+27) What are common barriers to achieving the targets you’re most interested in, and what local actions could help overcome them?
+28) How can youth lead efforts toward “education for sustainable development” (Target 4.7) in your area?
+29) If you could pick one target to prioritize for your group, which would it be and why?
+30) What indicators or evidence would you need to track progress on the target you care about, and how could your group collect them?
+
+Tips for using these
+- Quick quiz: Use 10–15 of the factual questions for a short knowledge check.
+- Discussion: Use the synergy and reflection prompts to spark group work.
+- Workshop activity: Have participants pick a target they care about, then map 2–3 synergies with other targets on sticky notes or a board.
+
+If you tell me your audience (age, background), preferred format (quiz, group discussion, written reflections), and how many questions you want, I’ll tailor these into a ready-to-use handout or slide deck.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. How would you like me to help with this SDG text? Here are a few options, and I can tailor to your needs:
+
+- Give a concise summary of the SDGs and their targets shown.
+- Extract and present a clean, structured list of the goals and targets (one per goal with its targets).
+- Create a quick comparison matrix (which targets overlap or support multiple goals).
+- Generate a study aid (flashcards or bullet points) for learning the 2030 Agenda.
+- Identify formatting issues or duplicates in the pasted text and propose a cleaned version.
+- Focus on a subset (e.g., Goal 3 and Goal 4) and expand with explanations or examples.
+
+Tell me which option you want, and any preferences (level of detail, region focus, etc.).
+-------------------------------------------------------
+Question: 1) How many Sustainable Development Goals (SDGs) are described in this document?
+Answer: 13 SDGs. The document descriptions cover Goals 1–9 and 11–14 (i.e., all except Goal 10 and Goals 15–17).
+-------------------------------------------------------
+Question: 
+Answer: Thanks for sharing the SDG resource document. I don’t see a question yet—how would you like me to help with this? Here are some options I can do:
+
+- Provide a concise summary of each goal and its targets listed in your document.
+- Spell out all targets for a specific goal (e.g., Goal 2: End hunger, or Goal 3: Health).
+- Create a quick study guide or a printable handout for 4th SDG Youth Summer Camp participants.
+- Generate a short quiz (multiple-choice questions) to test knowledge of the SDGs in the document.
+- Identify synergies or overlaps among the goals/targets in your text.
+- Reformat the content into a slide deck outline or a structured checklist.
+
+Tell me which option you want, or describe another task and I’ll tailor it.
+-------------------------------------------------------
+Question: 2) What is the full title of Goal 3?
+Answer: Goal 3. Ensure healthy lives and promote well-being for all at all ages.
+-------------------------------------------------------
+Question: 
+Answer: It looks like your message didn’t come through. How can I help with the SDG document you shared? Some options:
+
+- Provide a concise summary of the goals and targets listed
+- Extract and list all targets under a specific goal (e.g., Goal 2 or Goal 3)
+- Identify overlaps or synergies between targets
+- Create a simple checklist or planning notes for a project or camp
+- Answer specific questions about any of the targets or their wording
+
+Tell me which option you’d like, or paste the text again and tell me what you want done.
+-------------------------------------------------------
+Question: 3) Which target number under Goal 5 aims to “Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation”?
+Answer: Target 5.2.
+-------------------------------------------------------
+Question: 
+Answer: It looks like your message didn’t include a question or request. If you’d like, I can help with any of the following:
+
+- Summarize the SDG goals and targets you pasted
+- Extract and list all goals and targets clearly
+- Explain how specific targets (e.g., Target 2.c or 3.x) relate to the Doha Development Round or to the 2030 Agenda
+- Create a study guide, quiz, or briefing notes based on the document
+- Compare these targets or provide examples of implementation in different countries
+
+Please tell me what you’d like to do, or paste a question or task.
+-------------------------------------------------------
+Question: 4) Which target number under Goal 6 aims to achieve universal and equitable access to safe and affordable drinking water?
+Answer: Target 6.1.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question in your message. How would you like me to help with the pasted material?
+
+If you’d like, I can do any of the following:
+- Provide a concise summary of the SDGs and the targets shown in your text.
+- Extract the targets under each Goal and present them as a checklist.
+- Compare this document to another text you provide.
+- Identify synergies or overlaps between targets (e.g., how a target in one goal supports another).
+- Create a quick quiz or study notes based on the targets.
+
+Quick summary of what’s in your paste (as written): the excerpt covers parts of the 2030 Agenda for Sustainable Development, including Goals 2 (End hunger), 3 (Healthy lives), 4 (Quality education), 5 (Gender equality), 6 (Water and sanitation), 7 (Energy), 11 (Sustainable cities), 12 (Responsible consumption), 13 (Climate action), and 14 (Oceans). Each goal has its listed targets (e.g., 2.1, 2.2, …, 2.c; 3.1–3.d; 4.1–4.7 and 4.a–4.c; etc.), though the text also contains some duplications and a truncated ending. If you want, I can reorganize this cleanly by goal and target.
+-------------------------------------------------------
+Question: 5) Which target under Goal 3 aims to end preventable deaths of newborns and children under 5 years of age?
+Answer: Target 3.2.
+-------------------------------------------------------
+Question: 
+Answer: It looks like you pasted a section of the SDGs (Goals 2–14 and their targets) plus some formatting notes from a youth camp resource. How would you like me to help with this? Some options:
+
+- Summarize each goal and its key targets
+- Extract a clean, structured list of goals and targets (e.g., Goal 2.1, 2.2, etc.)
+- Create a study aid or flashcards for quick review
+- Identify duplicates or formatting issues (e.g., repeated targets) and clean them up
+- Generate a quiz or practice questions based on the targets
+- Compare these targets to a specific year (e.g., 2030 milestones)
+
+Tell me which option you prefer, or describe another task you have in mind.
+-------------------------------------------------------
+Question: 6) Under Goal 4, which target seeks to substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment?
+Answer: Target 4.4.
+-------------------------------------------------------
+Question: 
+Answer: I see you’ve shared a document listing SDGs and many targets (Goals 1–14). How would you like me to help with it? Here are a few options:
+
+- Provide a concise summary by goal with the main targets highlighted.
+- Create a quick checklist or action plan aligned to specific goals (e.g., nutrition, health, education).
+- Extract and organize key targets into a CSV/JSON for data analysis.
+- Identify synergies and cross-cutting initiatives across goals.
+- Map the SDG targets to a particular context (policy, program design, reporting).
+
+Tell me which you prefer, or ask me a specific question about the SDGs.
+-------------------------------------------------------
+Question: 7) True or False: Target 9.b is about youth employment.
+Answer: True.
+
+Reason: Target 9.b explicitly states developing a global strategy for youth employment and implementing the ILO Global Jobs Pact.
+-------------------------------------------------------
+Question: 
+Answer: It looks like your message didn’t come through. I can help with the content you shared (the SDG targets and related text). Please tell me what you’d like:
+
+- A concise summary of the goals and targets shown (Goals 2–7, etc.)
+- A quick reference list of all targets (with goal numbers)
+- Extraction of targets related to a topic (e.g., food security, health, gender equality)
+- A comparison or crosswalk (e.g., how targets align with specific policies or the Doha Round language)
+
+If you have a preferred format (bullet list, table, short paragraph), let me know.
+-------------------------------------------------------
+Question: 8) Which target focuses on eliminating all harmful practices, such as child, early and forced marriage and female genital mutilation?
+Answer: Target 5.3 (Goal 5: Achieve gender equality and empower all women and girls).
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question in your message. How would you like me to help with this SDG/Doha text? Here are a few options:
+
+- Provide a concise summary of the goals and targets mentioned.
+- List all targets by goal that appear in your excerpt (e.g., Goals 2, 3, 4, 5, 6, 7, 11, 12, 13, 14) with their target numbers.
+- Create a study guide or quick quiz about the targets.
+- Identify possible synergies or overlaps between specific targets.
+- Explain any part of the text you don’t understand.
+
+Tell me which option you prefer, or paste a more specific request.
+-------------------------------------------------------
+Question: 9) Which Goal is dedicated to building peaceful and inclusive societies for sustainable development and providing access to justice for all?
+Answer: Goal 16 — Peace, Justice and Strong Institutions.
+-------------------------------------------------------
+Question: 
+Answer: It looks like you pasted a section of the UN’s SDGs text (Goals and Targets), though the snippet is a bit garbled and includes duplicates/formatting issues.
+
+What would you like me to do with it?
+- Summarize the main goals and targets you posted
+- Cleanly extract and list each goal with its targets (a tidy outline)
+- Focus on a specific goal (e.g., Goal 2 or Goal 3) and pull out its targets
+- Compare or annotate inconsistencies/duplications in the text
+- Create study notes or a quiz based on these targets
+
+Tell me which option you prefer, or describe your goal and I’ll tailor it.
+-------------------------------------------------------
+Question: 10) Which target has a deadline set for 2025, and what is its focus?
+Answer: - Target: Target 2.2 (under Goal 2: End hunger, achieve food security and improved nutrition)
+- Focus: End all forms of malnutrition; specifically, by 2025 achieve the internationally agreed targets on stunting and wasting in children under 5, and address the nutritional needs of adolescent girls, pregnant and lactating women, and older persons.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question. How can I help with this SDG document? Here are some options I can do:
+
+- Provide a concise summary of the listed Goals and their targets.
+- Extract and list all targets for a specific Goal (e.g., Goal 2, 3, 4, etc.).
+- Create a quick-reference checklist of targets and their main aims.
+- Explain how a particular target (e.g., Target 2.c) relates to related frameworks like the Doha Development Round.
+- Identify overlaps or synergies between different Goals/targets.
+- Generate a simple comparison or mapping of targets to their corresponding SDGs.
+
+Tell me which option you want, or paste a specific question you’d like answered.
+-------------------------------------------------------
+Question: 11) Which target under Goal 12 aims to halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains?
+Answer: Target 12.3 (By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains).
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. How would you like me to work with this SDG resource text? Here are a few options, or you can tell me something else you need:
+
+- Quick summary: provide a high-level overview of which SDGs and targets are included in the document.
+- Clean, structured list: format the goals and their key targets (e.g., 2.1, 2.2, … 14.4) in a tidy bullet list.
+- Slide-friendly outline: create a concise, slide-ready outline for a short presentation.
+- Quiz or questions: generate a few short questions (with answers) based on the targets.
+- Crosswalk or mapping: relate these targets to national policy themes or to the broader 2030 Agenda.
+
+Here’s a quick high-level snapshot of what’s in the text you shared (no new content added, just a brief map of what’s included):
+
+- Goal 2: End hunger, with targets 2.1, 2.2, 2.3, 2.4, 2.a, 2.b, 2.c (includes market functioning and information on food reserves, as well as trade-related provisions from Doha Round).
+- Goal 3: Ensure healthy lives, with targets 3.1 through 3.d (plus 3.a, 3.b, 3.c, 3.d) covering maternal and child health, communicable and non-communicable diseases, health systems, and risk management.
+- Goal 4: Quality education, with targets 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, and 4.a, 4.b, 4.c.
+- Goal 5: Gender equality, with targets 5.1 through 5.c.
+- Goal 6: Water and sanitation, with targets 6.1 through 6.b.
+- Goal 7: Affordable, reliable, sustainable energy for all, with targets 7.1 through 7.3.
+- Then sections from the 4th SDG Youth Summer Camp resource describing the 17 SDGs and targets, plus specific targets for Goals 11 (cities), 12 (consumption/production), 13 (climate), and 14 (oceans), including several sub-targets (e.g., 11.7, 12.3, 13.a, 14.4, etc.).
+
+Tell me which format you want, and I’ll generate it.
+-------------------------------------------------------
+Question: 12) Match the following goals to their primary focus:
+Answer: Do you have a specific list of “following goals” to match? If not, here is the standard mapping of the 17 SDGs to their primary focus:
+
+1) Poverty eradication and protection of the poor
+2) Ending hunger and achieving food security and improved nutrition
+3) Health and well-being for all ages
+4) Inclusive, quality education for all
+5) Gender equality and empowerment of women and girls
+6) Clean water and sanitation for all
+7) Affordable, reliable, sustainable, modern energy for all
+8) Sustainable economic growth, decent work and employment for all
+9) Resilient infrastructure, sustainable industry and innovation
+10) Reduced inequalities within and among countries
+11) Sustainable, inclusive, safe and resilient cities and communities
+12) Responsible consumption and production
+13) Climate action and resilient societies
+14) Life below water (conserve oceans and marine resources)
+15) Life on land (protect terrestrial ecosystems)
+16) Peace, justice and strong institutions
+17) Partnerships for sustainable development (means of implementation)
+
+If you paste the exact “following goals” list, I can tailor the matches precisely to that set.
+-------------------------------------------------------
+Question: - Goal 1
+Answer: Here’s Goal 1 from the SDGs:
+
+- Goal 1: End poverty in all its forms everywhere
+
+Targets:
+- Target 1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day
+- Target 1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions
+- Target 1.3 Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable
+- Target 1.4 By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance
+- Target 1.5 By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+- Target 1.a Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions
+- Target 1.b Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions
+
+If you’d like, I can summarize these targets in simpler language or show how they’re interconnected with other SDGs.
+-------------------------------------------------------
+Question: - Goal 4
+Answer: Goal 4 summary:
+- Goal 4: Ensure inclusive and quality education for all and promote lifelong learning opportunities.
+
+Targets listed in the document:
+- Target 4.7 By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including education for sustainable development and sustainable lifestyles, human rights, gender equality, a culture of peace and non-violence, global citizenship, and appreciation of cultural diversity and of culture’s contribution to sustainable development.
+- Target 4.a Build and upgrade education facilities that are child-, disability-, and gender-sensitive, and provide safe, non-violent, inclusive and effective learning environments for all.
+- Target 4.b By 2020, substantially expand globally the number of scholarships available to developing countries (especially LDCs, SIDS, and African countries) for enrolment in higher education, including vocational training and ICT, in both developed and developing countries.
+- Target 4.c By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially LDCs and SIDS.
+
+Note: The excerpt you provided covers these targets (4.7, 4.a, 4.b, 4.c). Other SDG 4 targets (like 4.1–4.6) aren’t shown in this document snippet. If you’d like, I can provide their standard wording as well.
+-------------------------------------------------------
+Question: - Goal 6
+Answer: Goal 6: Ensure availability and sustainable management of water and sanitation for all
+
+Targets:
+- 6.1 By 2030, achieve universal and equitable access to safe and affordable drinking water for all.
+- 6.2 By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, with attention to women, girls, and those in vulnerable situations.
+- 6.3 By 2030, improve water quality by reducing pollution, eliminating dumping, minimizing hazardous releases, halving the proportion of untreated wastewater, and substantially increasing recycling and safe reuse globally.
+- 6.4 By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity.
+- 6.5 By 2030, implement integrated water resources management at all levels, including transboundary cooperation where appropriate.
+- 6.6 By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers, and lakes.
+- 6.a By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes (e.g., water harvesting, desalination, efficiency, wastewater treatment, recycling and reuse technologies).
+- 6.b By 2030, support and strengthen the participation of local communities in improving water and sanitation management.
+-------------------------------------------------------
+Question: - Goal 9
+Answer: Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
+
+Target highlights:
+- 9.1 Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.
+- 9.2 Promote inclusive and sustainable industrialization and, by 2030, raise industry’s share of employment and gross domestic product.
+- 9.3 Increase the access of small-scale industries to financial services, including affordable credit, and upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries.
+- 9.4 By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes.
+- 9.5 Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including by encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private R&D spending.
+- 9.a Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.
+- 9.b Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for industrial diversification and value addition to commodities.
+- 9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.
+-------------------------------------------------------
+Question: Options: a) Water and sanitation, b) Quality education, c) End poverty in all its forms, d) Infrastructure, industrialization, and innovation
+Answer: a) Water and sanitation
+
+Reason: The excerpt centers on Goal 6, “Ensure availability and sustainable management of water and sanitation for all,” with targets 6.1–6.6 and 6.a/6.b. It also mentions other goals (infrastructure, education), but the primary focus shown is water and sanitation.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. How would you like me to help with this SDG material? Here are some options:
+
+- Summarize the 17 SDGs and their targets in a concise overview
+- Pull out all targets for a specific goal (e.g., Goal 2, Goal 3)
+- Create a study guide or quiz for participants (flashcards or multiple-choice)
+- Identify synergies and overlaps between goals and targets
+- Draft a camp activity plan that maps to particular targets
+- Clean up and standardize the document (fix duplicates, formatting issues, etc.)
+- Convert the content into a one-page quick reference or slide deck
+
+If you tell me which option you want (or provide a new prompt), I’ll tailor it right away.
+-------------------------------------------------------
+Question: 13) Design a JSON structure that can store the 17 goals, where each goal contains its targets. Each target should have fields for code (e.g., "Target 3.1"), year/deadline, and description.
+Answer: Here’s a compact, scalable JSON structure you can use to store all 17 SDG goals, with each goal containing its targets. Each target has code, deadline (year/deadline), and description.
+
+Structure (conceptual)
+- Root: an object with a single key "goals" that is an array.
+- Each goal: an object with
+  - "goal_id": integer (1 through 17)
+  - "code": string (e.g., "Goal 1")
+  - "title": string
+  - "targets": array of target objects
+- Each target: an object with
+  - "code": string (e.g., "Target 3.1")
+  - "deadline": string (year or textual deadline, e.g., "2030" or "By 2030")
+  - "description": string (the target description)
+
+Example (partial fill for first two goals to illustrate)
+{
+  "goals": [
+    {
+      "goal_id": 1,
+      "code": "Goal 1",
+      "title": "End poverty in all its forms everywhere",
+      "targets": [
+        {
+          "code": "Target 1.1",
+          "deadline": "2030",
+          "description": "Eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day"
+        },
+        {
+          "code": "Target 1.2",
+          "deadline": "2030",
+          "description": "Reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+        }
+      ]
+    },
+    {
+      "goal_id": 2,
+      "code": "Goal 2",
+      "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+      "targets": [
+        {
+          "code": "Target 2.1",
+          "deadline": "2030",
+          "description": "End hunger and ensure access by all people, in particular the poor and vulnerable, to safe, nutritious and sufficient food all year round"
+        },
+        {
+          "code": "Target 2.2",
+          "deadline": "2030",
+          "description": "By 2030, end all forms of malnutrition, including achieving the internationally agreed targets on stunting and wasting in children under 5 years of age"
+        }
+      ]
+    }
+    // Add goals 3 through 17 in the same pattern
+  ]
+}
+
+Notes and tips
+- Extendability: To cover all 17 goals, append additional goal objects to the "goals" array with their respective titles and target lists.
+- Deadline field: Use a simple string for flexibility (e.g., "2030", "By 2030", "2020–2030"). If you need strict typing later, you can switch to:
+  - "deadline_year": 2030 (integer)
+  - "deadline_text": "By 2030" (string)
+- Optional extensions:
+  - Add "description_short" for a compact title/summary.
+  - Add "source" or "notes" fields per target if you want to capture references or status.
+
+If you’d like, I can generate a complete 17-goal JSON by filling each goal’s title and including at least one target per goal based on the provided SDG document.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question in your message—it looks like you pasted a block of the SDG targets from the 2030 Agenda.
+
+Would you like me to help with one of these?
+- Summarize the goals and most important targets in plain language
+- List all targets for a specific goal (e.g., Goal 2 or Goal 3)  
+- Create a concise one-page checklist or quick-reference sheet of the targets and their numbers
+- Extract or format the targets into a structured format (JSON, CSV, or a table)
+- Compare or identify synergies and overlaps between different goals (e.g., nutrition and health, water and energy)
+
+If you tell me which format or which goal/targets you care about, I’ll tailor it.
+-------------------------------------------------------
+Question: 14) Write a high-level pseudocode (or code outline) for a function that parses the long SDG text and returns a dictionary mapping each goal number to a list of its targets with their codes and descriptions.
+Answer: Here’s a high-level Python-like outline you can adapt. It returns a dictionary mapping each goal number to a list of targets, where each target has a code (e.g., "Target 1.1") and a description (string).
+
+Algorithm outline (pseudo-code)
+
+- Function parse_sdg_text(text):
+  - Input: text string containing the full SDG resource document
+  - Output: dict<int, list of {code: string, description: string}>
+
+  - Initialize result as empty dict
+  - Set current_goal to None
+  - Split text into lines: lines = text.splitlines()
+  - For each line index i from 0 to len(lines)-1:
+    - line = lines[i].strip()
+
+    - If line matches goal header pattern, e.g. "Goal <n>.":
+      - Extract n as integer
+      - current_goal = n
+      - If current_goal not in result, set result[current_goal] = []
+      - Continue to next line
+
+    - If line matches target line pattern, e.g. "Target <code> <description>":
+      - Extract target_code_part (e.g., "1.1", "11.a") and the initial description text
+      - code = "Target " + target_code_part
+      - description = initial description text (trim)
+      - Create target_entry = { "code": code, "description": description }
+      - If current_goal is not None, append target_entry to result[current_goal]
+      - Now collect continuation lines that belong to this target:
+        - Move to next line index j = i + 1
+        - While j < len(lines):
+          - cont = lines[j].strip()
+          - If cont is empty, skip or append as space
+          - If cont starts a new target or a new goal (matches r"^(Target|Goal)\s+"), then break
+          - Append cont to target_entry["description"] with a space
+          - j += 1
+        - Set i = j - 1 (to continue from the last consumed line)
+      - Continue to next iteration
+
+    - Otherwise: ignore or handle as stray text (the algorithm focuses on Goal/Target lines)
+
+  - Return result
+
+Notes and implementation tips
+
+- Goal detection: use a regex like ^Goal\s+(\d+)\. to capture the numeric goal.
+- Target detection: use a regex like ^Target\s+(\d+(?:\.\w+)?)\s*(.*)$ to capture codes such as 1.1, 2.3, 11.a, etc., and the initial description.
+- Description assembly: many targets wrap across multiple lines. After recognizing a target, keep appending subsequent non-goal/non-target lines to its description until you hit the next Target or Goal line.
+- Data shape: each value in the result is a list of targets for that goal. Each target is a simple dict with:
+  - "code": e.g., "Target 1.1"
+  - "description": the full description text for that target
+- Edge cases:
+  - A target line may have no description on the same line; the description may begin on the next line(s). The continuation logic should include such lines.
+  - Sub-targets like "Target 11.a" should be treated as targets under the parent Goal 11; the goal number is the top-level key.
+
+Optional enhancements
+
+- Normalize whitespace in descriptions (collapse multiple spaces, trim).
+- Optionally store the parent goal as part of each target if you want a faster cross-check.
+- Add simple unit tests with representative fragments of the SDG text to verify parsing (single-line targets, multi-line descriptions, mixed numeric/alphanumeric target codes).
+
+Example (conceptual)
+
+Input fragment:
+- "Goal 1. End poverty in all its forms everywhere"
+- "Target 1.1 By 2030, eradicate extreme poverty for all people everywhere"
+- "Target 1.2 By 2030, reduce at least by half the proportion of men, women and children in poverty"
+
+Output structure:
+{
+  1: [
+    { "code": "Target 1.1", "description": "By 2030, eradicate extreme poverty for all people everywhere" },
+    { "code": "Target 1.2", "description": "By 2030, reduce at least by half the proportion of men, women and children in poverty" }
+  ],
+  ...
+}
+
+If you’d like, I can tailor this to a specific language (Python, JavaScript, etc.) and provide a concrete, ready-to-run snippet.
+-------------------------------------------------------
+Question: 
+Answer: Thanks for sharing. I don’t see a question yet, but I can help with this SDG content. Here are a few options—tell me which you’d like:
+
+- Clean, concise summary: I can list the 17 SDGs and the key targets that appear in your excerpt, organized neatly.
+- Remove duplicates and format: I can produce a non-redundant, easy-to-read version of the goals and targets (no duplication or broken lines).
+- Study guide for a youth camp: A short, kid-friendly overview with 2–3 practical takeaway points per goal, plus quick Activity ideas.
+- Crosswalk or comparison: If you want, I can compare the SDG targets in your text to other documents (e.g., Doha Round language) and highlight overlaps.
+- Quiz or flashcards: I can generate multiple-choice questions or flashcards based on the targets shown.
+- Custom extract: Tell me which goals or targets you care about (e.g., health, education, climate) and I’ll pull out just those.
+
+If you’d like, I can start by giving a clean, concise list of the 17 SDGs with the targets that appear in your pasted content.
+-------------------------------------------------------
+Question: 15) Provide a regular expression pattern that can extract target lines of the form “Target X.Y By [year], [description]” from the text.
+Answer: Regex pattern (multiline):
+
+(?m)^Target\s+(\d+\.[0-9A-Za-z]+)\s+By\s+(\d{4}),\s*(.*)$
+
+What it captures:
+- Group 1: the target code (e.g., 11.7, 6.b, 8.10)
+- Group 2: the year (e.g., 2030)
+- Group 3: the description that follows
+
+Usage notes:
+- Enable multiline mode (the (?m) or the appropriate flag in your language) so ^ matches line starts.
+- Example in Python: re.findall(r'(?m)^Target\s+(\d+\.[0-9A-Za-z]+)\s+By\s+(\d{4}),\s*(.*)$', text)
+- Example in JavaScript: /^(?:Target)\s+(\d+\.[0-9A-Za-z]+)\s+By\s+(\d{4}),\s*(.*)$/gm
+
+This will extract lines like "Target 11.7 By 2030, ..." from the text.
+-------------------------------------------------------
+Question: 
+Answer: Thanks for sharing. It looks like you pasted the SDGs text (Goals 1–14 and their targets, with some duplication). How would you like me to help? Here are a few options:
+
+- Provide a concise, structured summary of each goal and its targets.
+- Extract and present a clean bullet list of all targets (with their numbers) for study or presentation.
+- Build a crosswalk of synergies across selected targets (e.g., health, nutrition, education, poverty, gender).
+- Compare these SDG targets to the Doha Round context you mentioned earlier.
+- Create a simple checklist or study guide (e.g., highlight deadlines like 2030 or 2020 milestones).
+
+If you want, I can start with a clean, structured summary of Goals 1–14 and their targets. Just tell me which option you prefer.
+-------------------------------------------------------
+Question: 16) SQL design and query:
+Answer: I can help, but I need a bit more detail. Do you want a generic, normalized SQL schema to store SDG Goals, Targets, and Indicators plus data points (by country and year) and then sample queries? If yes, here’s a practical design you can reuse. It’s DBMS-agnostic (works in PostgreSQL, MySQL, SQLite with minor tweaks).
+
+1) Suggested schema (normalized)
+- Goals: high-level goals (e.g., Goal 4)
+- Targets: targets under each goal (e.g., 4.7)
+- Indicators: specific indicators under a target (e.g., 4.7.1)
+- Countries: country list with ISO code
+- DataPoints: measured values for a country, indicator, and year
+
+Tables and relationships:
+- Goals 1---many---Targets 1---many---Indicators
+- Countries 1---many---DataPoints
+- Indicators 1---many---DataPoints
+
+2) DDL (CREATE TABLE statements)
+
+Note: adjust data types for your DBMS (SERIAL in PostgreSQL; AUTO_INCREMENT in MySQL; AUTOINCREMENT in SQLite).
+
+- Goals
+  CREATE TABLE goals (
+    id SERIAL PRIMARY KEY,
+    code VARCHAR(20) NOT NULL UNIQUE,  -- e.g., 'G4' or 'Goal 4'
+    title TEXT,
+    description TEXT
+  );
+
+- Targets
+  CREATE TABLE targets (
+    id SERIAL PRIMARY KEY,
+    goal_id INTEGER NOT NULL,
+    code VARCHAR(20) NOT NULL UNIQUE,    -- e.g., '4.7'
+    description TEXT,
+    FOREIGN KEY (goal_id) REFERENCES goals(id)
+  );
+
+- Indicators
+  CREATE TABLE indicators (
+    id SERIAL PRIMARY KEY,
+    target_id INTEGER NOT NULL,
+    code VARCHAR(20) NOT NULL UNIQUE,    -- e.g., '4.7.1'
+    description TEXT,
+    FOREIGN KEY (target_id) REFERENCES targets(id)
+  );
+
+- Countries
+  CREATE TABLE countries (
+    id SERIAL PRIMARY KEY,
+    iso_code CHAR(3) NOT NULL UNIQUE,  -- e.g., 'USA', 'BRA'
+    name VARCHAR(100) NOT NULL
+  );
+
+- DataPoints
+  CREATE TABLE data_points (
+    id SERIAL PRIMARY KEY,
+    country_id INTEGER NOT NULL,
+    indicator_id INTEGER NOT NULL,
+    year INTEGER NOT NULL,
+    value NUMERIC,          -- or DECIMAL(12,4) if you want fixed precision
+    unit VARCHAR(20),         -- e.g., 'percent', 'persons', etc.
+    FOREIGN KEY (country_id) REFERENCES countries(id),
+    FOREIGN KEY (indicator_id) REFERENCES indicators(id),
+    UNIQUE (country_id, indicator_id, year)  -- one value per country/indicator/year
+  );
+
+3) Example data (short illustrative inserts)
+
+- Goals
+  INSERT INTO goals (code, title, description) VALUES
+  ('G4', 'Quality Education', 'Ensure inclusive and equitable quality education...');
+
+- Targets
+  INSERT INTO targets (goal_id, code, description) VALUES
+  ((SELECT id FROM goals WHERE code='G4'), '4.7', 'Quality education for sustainable development and global citizenship');
+
+- Indicators
+  INSERT INTO indicators (target_id, code, description) VALUES
+  ((SELECT id FROM targets WHERE code='4.7'), '4.7.1', 'Knowledge of sustainable development and global citizenship among learners');
+
+- Countries
+  INSERT INTO countries (iso_code, name) VALUES
+  ('USA', 'United States'), ('BRA', 'Brazil'), ('NGA', 'Nigeria');
+
+- DataPoints
+  INSERT INTO data_points (country_id, indicator_id, year, value, unit) VALUES
+  ((SELECT id FROM countries WHERE iso_code='USA'),
+   (SELECT id FROM indicators WHERE code='4.7.1'),
+   2030, 78.5, 'percent');
+
+4) Useful queries (typical tasks)
+
+- Get all targets for a given goal
+  SELECT t.code, t.description
+  FROM targets t
+  JOIN goals g ON t.goal_id = g.id
+  WHERE g.code = 'G4';
+
+- Get all indicators for a given target
+  SELECT i.code, i.description
+  FROM indicators i
+  JOIN targets t ON i.target_id = t.id
+  WHERE t.code = '4.7';
+
+- Get latest data for a specific country and indicator
+  SELECT c.name AS country, i.code AS indicator, d.year, d.value, d.unit
+  FROM data_points d
+  JOIN countries c ON d.country_id = c.id
+  JOIN indicators i ON d.indicator_id = i.id
+  WHERE c.iso_code = 'USA' AND i.code = '4.7.1'
+  ORDER BY d.year DESC
+  LIMIT 1;
+
+- Average value for an indicator across all countries in a given year
+  SELECT AVG(d.value) AS avg_value
+  FROM data_points d
+  JOIN indicators i ON d.indicator_id = i.id
+  WHERE i.code = '4.7.1' AND d.year = 2030;
+
+- Year-over-year trend for a country-indicator pair (list by year)
+  SELECT d.year, d.value
+  FROM data_points d
+  JOIN indicators i ON d.indicator_id = i.id
+  JOIN countries c ON d.country_id = c.id
+  WHERE c.iso_code = 'USA' AND i.code = '4.7.1'
+  ORDER BY d.year;
+
+- Pivot-like view (PostgreSQL) to show multiple indicators by year for a country
+  (If you have multiple indicators, you can pivot with crosstab or aggregate filtering per indicator.)
+
+5) Design notes and tips
+- Use codes (e.g., '4.7', '4.7.1') as stable natural keys for readability; back them with surrogate numeric IDs for performance.
+- Ensure a unique constraint on (country, indicator, year) to prevent duplicate data.
+- Add an index on data_points(year) and on data_points(country_id, indicator_id, year) if you run lots of range lookups.
+- If you expect many indicators per target, keep target_id as the foreign key in indicators (not a list field).
+- If you’ll export to or import from CSV/JSON, consider additional staging tables or a lightweight EAV model, but a normalized 5-table design is usually clearer and faster for reporting.
+- If you use PostgreSQL, you can leverage advanced features like JSONB columns for flexible metadata or materialized views for common aggregates.
+
+6) What I need from you to tailor this
+- Which DBMS are you using (PostgreSQL, MySQL, SQLite, SQL Server, etc.)?
+- Do you already have a table structure or sample columns/fields I should align to?
+- What specific queries or reports do you need to produce (e.g., per-country progress by year, global aggregates, target-level summaries)?
+- How granular is your data (just indicators, or sub-indicators as well)?
+
+If you share your DBMS and a bit about your current or target dataset, I can adapt these definitions and provide exact CREATE TABLE statements and ready-to-run queries for your setup.
+-------------------------------------------------------
+Question: - Suppose you have a table SDG_Targets(goal_id INT, target_code VARCHAR, year_deadline VARCHAR, description TEXT).
+Answer: Nice. With a table like SDG_Targets(goal_id INT, target_code VARCHAR, year_deadline VARCHAR, description TEXT), here are practical ways to design, populate, and query it.
+
+1) Suggested DDL (with constraints)
+- Use a composite primary key (goal_id, target_code) and a foreign key to a hypothetical SDG_Goals table.
+- Consider making year_deadline a numeric year (INT) or YEAR if your RDBMS supports it for easier comparisons. If you must keep VARCHAR, you can still query with care.
+
+Option A: Composite primary key (no surrogate key)
+CREATE TABLE SDG_Targets (
+  goal_id INT NOT NULL,
+  target_code VARCHAR(10) NOT NULL,
+  year_deadline VARCHAR(10),
+  description TEXT,
+  PRIMARY KEY (goal_id, target_code),
+  FOREIGN KEY (goal_id) REFERENCES SDG_Goals(goal_id)
+);
+
+Option B: Surrogate key (more flexibility)
+CREATE TABLE SDG_Targets (
+  id SERIAL PRIMARY KEY,
+  goal_id INT NOT NULL,
+  target_code VARCHAR(10) NOT NULL,
+  year_deadline VARCHAR(10),
+  description TEXT,
+  FOREIGN KEY (goal_id) REFERENCES SDG_Goals(goal_id)
+);
+
+Notes:
+- If you expect multiple descriptions per target or future metadata, Option B is easier to evolve.
+- If you keep year_deadline as VARCHAR, ensure consistent formats (e.g., just '2030' or '2030-12-31'). If possible, switch to INT or DATE/YEAR for robust comparisons.
+
+2) Example data (a few targets to illustrate)
+Assuming you have a SDG_Goals table with goal_id values like 1, 2, 3, etc., you can insert targets like:
+
+-- Example (using composite primary key approach)
+INSERT INTO SDG_Targets (goal_id, target_code, year_deadline, description) VALUES
+(3, '3.1', '2030', 'By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.'),
+(3, '3.2', '2030', 'By 2030, end preventable deaths of newborns and children under 5 years of age.'),
+(3, '3.3', '2030', 'By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases.'),
+(4, '4.1', '2030', 'By 2030, ensure all girls and boys complete free, quality primary and secondary education.'),
+(12, '12.2', '2030', 'By 2030, achieve the sustainable management and efficient use of natural resources.');
+
+If you use Option B (surrogate key), include id values or let the DB generate them.
+
+3) Useful queries
+
+- Get all targets for a specific goal (e.g., Goal 3)
+SELECT goal_id, target_code, year_deadline, description
+FROM SDG_Targets
+WHERE goal_id = 3
+ORDER BY target_code;
+
+- Get targets ordered by deadline (earliest first)
+SELECT goal_id, target_code, year_deadline, description
+FROM SDG_Targets
+ORDER BY year_deadline ASC, target_code ASC;
+
+- Find targets whose description mentions a word (e.g., poverty, health)
+SELECT goal_id, target_code, year_deadline, description
+FROM SDG_Targets
+WHERE description ILIKE '%poverty%'  -- use LIKE or ILIKE depending on DB
+ORDER BY goal_id, target_code;
+
+- Count targets per goal
+SELECT goal_id, COUNT(*) AS target_count
+FROM SDG_Targets
+GROUP BY goal_id
+ORDER BY goal_id;
+
+- Join with goals table to show goal names (assuming SDG_Goals(goal_id, goal_name))
+SELECT g.goal_name, t.target_code, t.year_deadline, t.description
+FROM SDG_Targets t
+JOIN SDG_Goals g ON g.goal_id = t.goal_id
+ORDER BY g.goal_id, t.target_code;
+
+- Upsert a target (PostgreSQL example)
+INSERT INTO SDG_Targets (goal_id, target_code, year_deadline, description)
+VALUES (3, '3.5', '2030', 'Strengthen prevention and treatment of substance abuse.')
+ON CONFLICT (goal_id, target_code)
+DO UPDATE SET year_deadline = EXCLUDED.year_deadline,
+              description = EXCLUDED.description;
+
+4) Tips and best practices
+- Data type refinement: If possible, switch year_deadline to INT or DATE/YEAR to simplify comparisons and ordering.
+- Consistent target_code format: Use a consistent code like '3.1', '12.2', etc. If you need the word “Target” prefix, adjust accordingly, but keep it uniform.
+- Indexing: Create an index on (goal_id, target_code) (or rely on the PRIMARY KEY). If you frequently filter by year_deadline, consider an index on year_deadline as well.
+- Data validation: If you’re importing from the SDG document, consider a validation step to ensure target_code matches a known pattern and year_deadline is a sensible year (e.g., between 2000 and 2100).
+- Documentation: Maintain a SDG_Goals table that lists goal_id, code, and name for easy joins and human readability.
+
+If you tell me:
+- which RDBMS you’re using (PostgreSQL, MySQL, SQLite, etc.)
+- whether you prefer a surrogate key or composite primary key
+- whether you want year_deadline as a numeric type
+
+I can tailor the exact DDL and sample queries to your environment.
+-------------------------------------------------------
+Question: - Write an SQL query to fetch all targets for a given goal_id (e.g., goal_id = 8), including their codes and descriptions, ordered by target_code.
+Answer: Here’s a simple query you can adapt to your schema. It fetches the targets for a given goal_id (example: 8) with their codes and descriptions, ordered by the target code.
+
+- Basic version (typical column names: goal_id, target_code, description)
+SELECT target_code, description
+FROM targets
+WHERE goal_id = 8
+ORDER BY target_code;
+
+- If your columns are named differently (e.g., code and target_desc)
+SELECT code AS target_code, target_desc AS description
+FROM targets
+WHERE goal_id = 8
+ORDER BY code;
+
+If you have a different table name or column names, just replace targets, goal_id, target_code, and description accordingly.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. How would you like me to help with this SDG document? Here are a few options (tell me which you want or propose another):
+
+- Provide a concise summary of each goal and its targets
+- Extract and list all targets (e.g., 2.1, 2.2, … up to 7.3) in a clean, numbered format
+- Convert the targets into a structured data format (JSON or CSV)
+- Compare or map targets across different goals to identify synergies and overlaps
+- Create a study/quiz guide or a quick-reference sheet for exam prep
+- Rephrase or simplify the targets for a general audience
+
+If you’d like, I can start by producing a clean list of all targets mentioned in your text.
+-------------------------------------------------------
+Question: 17) Which target explicitly aims to ensure universal health coverage, including financial risk protection and access to medicines and vaccines?
+Answer: Target 3.8: Achieve universal health coverage, including financial risk protection, and access to quality essential health-care services and to safe, effective, quality and affordable essential medicines and vaccines for all.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. You’ve shared a long SDG resource document (Goals 1–7 plus a 4th SDG Youth Summer Camp guide). How would you like me to help with it?
+
+Options I can assist with:
+- Create a clean, concise list of the 17 SDGs and their key targets (well-structured for a handout or slide).
+- Extract and organize all targets by goal (with numbering) and remove duplicates.
+- Generate a participant-friendly briefing or activity sheet for a youth camp.
+- Create quiz questions, discussion prompts, or group activities aligned with specific SDGs.
+- Map the SDG targets to a local context (your country/region) and suggest relevant actions.
+- Proofread/format the document so it’s easy to read and print.
+
+If you want, I can start by providing a clean, compact version of Goals 1–3 as an example, or I can pull out all targets for all 17 goals. Tell me which you prefer and any constraints (length, language, audience).
+-------------------------------------------------------
+Question: 18) Which targets under Goal 14 are focused on the protection and sustainable use of oceans and marine resources? List at least two.
+Answer: Examples of targets under Goal 14 that focus on protection and sustainable use of oceans and marine resources include:
+
+- 14.2: Sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, and take action for their restoration.
+- 14.1: Prevent and significantly reduce marine pollution of all kinds, especially from land-based activities.
+- 14.3: Minimize and address the impacts of ocean acidification.
+- 14.4: Regulate harvesting and end overfishing, illegal, unreported and unregulated fishing, and implement science-based management plans.
+- 14.5: Conserve at least 10% of coastal and marine areas.
+- 14.c: Enhance conservation and sustainable use by implementing international law reflected in UNCLOS.
+- 14.a: Increase scientific knowledge and transfer marine technology to improve ocean health.
+- 14.b: Provide access for small-scale artisanal fishers to marine resources and markets.
+- 14.6: Prohibit certain harmful fisheries subsidies that contribute to overfishing and overcapacity.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question. How would you like me to help with this SDG text? A few options:
+
+- Provide a concise summary of the goals and targets shown
+- Extract and list targets by each goal (in a clean, easy-to-reference format)
+- Create a crosswalk of synergies among the goals you care about
+- Build a simple action plan or checklist aligned to these targets
+- Output as JSON/CSV for programmatic use
+
+Tell me which task you want, and any specifics (e.g., which goals to focus on or the level of detail).
+-------------------------------------------------------
+Question: 19) Identify a target that mentions empowering populations through information and communications technology to promote the empowerment of women.
+Answer: Target 5.b: Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.
+-------------------------------------------------------
+Question: 
+Answer: It looks like you didn’t include a question. How can I help with the material you shared?
+
+Here are a few options, if any sound useful:
+- Summarize the SDGs and their targets included in your text.
+- Extract specific targets (e.g., Target 2.1, 2.2, 3.1, etc.) and present them clearly.
+- Create a structured outline or a study guide, including how goals relate to each other.
+- Identify and fix formatting issues or duplications in the text (there are some repeated lines and overlaps).
+- Compare the SDG language to the Doha Development Round provisions you mentioned.
+- Generate flashcards or practice questions based on the targets.
+
+Tell me what you’d like, and any preferred format.
+-------------------------------------------------------
+Question: 20) Which target under Goal 11 focuses on ensuring universal access to safe, inclusive and accessible green and public spaces?
+Answer: Target 11.7.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. How would you like me to help with this SDG material? Here are a few options (tell me which you want, or propose another):
+
+- Create a concise summary of the goals and their targets in the text you provided.
+- Extract a clean, structured list of goals (with one or two key targets) for quick reference.
+- Build a study guide, quiz, or printable cheat sheet suitable for a youth camp.
+- Analyze synergies or overlaps between selected goals/targets.
+- Draft discussion prompts or activities aligned with specific targets.
+
+Quick starter (based on the text you shared): goals covered and a representative target each
+
+- Goal 1: End poverty in all its forms everywhere
+  - Target 1.1: Eradicate extreme poverty for all people everywhere (currently $1.25/day)
+- Goal 2: End hunger, achieve food security and improved nutrition, promote sustainable agriculture
+  - Target 2.1: End hunger and ensure access to safe, nutritious food year-round
+- Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  - Target 3.1: Reduce global maternal mortality ratio to less than 70 per 100,000 live births
+- Goal 4: Ensure inclusive and equitable quality education and lifelong learning opportunities
+  - Target 4.1: Ensure all children complete free, quality primary and secondary education
+- Goal 5: Achieve gender equality and empower all women and girls
+  - Target 5.1: End discrimination against all women and girls
+- Goal 6: Ensure availability and sustainable management of water and sanitation for all
+  - Target 6.1: Achieve universal and equitable access to safe drinking water
+- Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all
+  - Target 7.1: Universal access to affordable, reliable, modern energy services
+- Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable
+  - Target 11.7: Provide universal access to safe, inclusive, green and public spaces
+- Goal 12: Ensure sustainable consumption and production patterns
+  - Target 12.1: Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production
+- Goal 13: Take urgent action to combat climate change and its impacts
+  - Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards
+- Goal 14: Conserve and sustainably use the oceans, seas and marine resources
+  - Target 14.1: By 2025, prevent and significantly reduce marine pollution
+
+If you tell me which option you want (or provide a specific instruction), I’ll tailor the output accordingly.
+-------------------------------------------------------
+Question: 21) Which target addresses the mobilization of resources for development cooperation and provides adequate and predictable means for developing countries to end poverty?
+Answer: Target 1.a (SDG 1.a): Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, to provide adequate and predictable means for developing countries, in particular LDCs, to end poverty.
+-------------------------------------------------------
+Question: 
+Answer: It looks like you pasted a long SDG-related document but didn’t ask a question. How would you like me to help with this content? A few options:
+
+- Provide a concise summary of the 17 Sustainable Development Goals and their key targets.
+- Extract and cleanly list the targets under each goal for easy reference.
+- Create a short briefing or activity outline for a camp or workshop based on these goals.
+- Generate quiz questions, discussion prompts, or case studies aligned with specific targets.
+- Compare these SDG targets to another framework you’re using.
+
+Let me know which option you want, or tell me your specific goal and I’ll tailor it.
+-------------------------------------------------------
+Question: 22) Which target under Goal 8 aims to eradicate forced labor, end modern slavery, and eliminate the worst forms of child labor by 2025?
+Answer: Target 8.7.
+-------------------------------------------------------
+Question: 
+Answer: Thanks for sharing that. How would you like me to help with this SDG text? Here are a few options (I can do any combination):
+
+- Provide a concise summary of the included goals and targets.
+- Break it down by Goal, listing each Target in plain language.
+- Extract key targets and reformulate them into a clean, structured list (e.g., Goal 2 targets, Goal 3 targets, etc.).
+- Highlight overlaps or synergies between targets (where one target supports another).
+- Create a quick study guide or explanation for each target (what it aims to achieve and why it matters).
+- Compare these targets to the Doha/related references mentioned in the block.
+
+Tell me which format you prefer, and if you have any specific goals (e.g., “focus on Goals 2–4 only” or “explain Target 2.3 in simple terms”).
+-------------------------------------------------------
+Question: 23) Which target explicitly calls for the advancement of international cooperation and capacity-building for water- and sanitation-related activities?
+Answer: Target 6.a — By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.
+-------------------------------------------------------
+Question: 
+Answer: I don’t see a question yet. It looks like you pasted a chunk of the SDGs text. How would you like me to help with it? Here are some options:
+
+- Provide a concise summary of the 17 SDGs and their key targets shown in your text.
+- Extract and list each Goal with its relevant targets (e.g., Goal 2.1, 2.2, etc.) in a clean, organized way.
+- Create a study guide or checklist for a SDG camp based on this material.
+- Explain what specific targets mean (for example, what is Target 2.4 vs. 2.5).
+- Identify any duplicates or formatting issues in the pasted text and suggest corrections.
+
+Tell me which option you want, or ask a specific question about a target or goal.
+-------------------------------------------------------
+Question: 24) Which target under Goal 13 is about mobilizing $100 billion annually by 2020 to address the needs of developing countries in the context of mitigation actions?
+Answer: Target 13.a.
+-------------------------------------------------------
+Question: 
+Answer: It looks like you pasted a document about the Sustainable Development Goals (SDGs) with many targets (2.1–2.5, 3.x, 4.x, 5.x, 6.x, 7.x, 11.x, 12.x, 13.x, 14.x) and a note about the Doha Development Round. There isn’t a question attached.
+
+What would you like me to do with this text? Some options:
+- Provide a clean, non-duplicated summary of the SDGs and targets included.
+- Extract and list all targets with their goal numbers in a structured format.
+- Create a concise checklist or briefing document for a workshop or camp (e.g., the 4th SDG Youth Summer Camp) based on these targets.
+- Compare these targets to the standard UN SDG targets and note any differences or additions (e.g., the Doha-related references).
+- Answer specific questions about any particular target or goal mentioned in the text.
+
+Tell me which option you’d prefer, or describe another task.
+-------------------------------------------------------
+Question: 25) Which target under Goal 17 focuses on promoting a universal, rules-based, open, non-discriminatory, and equitable multilateral trading system under the World Trade Organization?
+Answer: Target 17.10. It states: “Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.”
+-------------------------------------------------------
